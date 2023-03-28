@@ -1,0 +1,17 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+
+{
+
+    vector<int>v= {5,3,4,7,9,3,1,2};
+
+    sort(v.rbegin(),v.rend());
+
+    for(auto u:v)cout<<u<<" ";
+
+    cout<<endl;
+
+
+}
