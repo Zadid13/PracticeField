@@ -7,7 +7,8 @@ using namespace std;
 int main(){
 
 optimize();
-
+  
+  
 string s;
 getline(cin,s);
 
