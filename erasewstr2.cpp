@@ -9,7 +9,7 @@ int main(){
 
     string s = "deacbAAA";
 
-    s.erase(s.end()-1); //O(n)
+    s.erase(s.end()-1); //O(1)
     cout<<s<<endl;
 
 }
