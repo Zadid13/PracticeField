@@ -14,15 +14,4 @@ int main()
     else cout<<t<<" "<<"is smallest";
 
 
-
-
-   /* vector<string> v;
-    v.psuh_back("Zadid");
-    v.push_back("Hasnat");
-    v.push_back("shanto");
-    v.push_back("Hasan");
-    v.push_back("talukder");
-    v.push_back("Moni");*/
-
-
 }
