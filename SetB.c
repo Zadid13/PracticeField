@@ -6,7 +6,7 @@ I/P-> Factorial-> O/P
 can call itself again from output
 I/P-> Factorial<- O/P
 
-We Need to stop this the get final ouput or to break from the loop
+We Need to stop this to get final ouput or to break from the loop
 to do this we need a condition which is called #Base_Case#
 
 For example:
@@ -20,7 +20,7 @@ For !5:
 
 Algorithm: n!= n X (n-1)!
 
-t
+
 
 Pseudocode:
 
@@ -39,7 +39,9 @@ fact(4)
     4 X fact(3)
     3 X fact(2)
     2 X fact(1)
-        1 //returns 1 when base case or condition is met
+    Here n becomes 1==1 //returns 1 when base case or condition is met 
+    So 1! == 1 
+    And finally breaks from recursion or this loop
 
     
 
