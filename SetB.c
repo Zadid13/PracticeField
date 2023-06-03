@@ -13,9 +13,9 @@ For example:
 For !5:
 
 5!=5 X 4 X 3 X 2 X 1
-2!=4 X 3 X 2 X 1
+4!=4 X 3 X 2 X 1
 3!=3 X 2 X 1
-4!=2 X 1
+2!=2 X 1
 1!=1
 
 Algorithm: n!= n X (n-1)!
