@@ -58,7 +58,7 @@ void printsetb(int n, int cur, int count, int tot)
     if (cur % 3 == 0)
     {
         printf("%d\n", cur);
-        tot += cur;
+        tot = tot+cur;
     }
 
     printsetb(n, cur + 1, count, tot);
